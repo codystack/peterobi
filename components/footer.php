@@ -38,7 +38,7 @@
 				<div class="row">
 					<div class="col-md-8 mx-auto">
 						<div class="widget text-center mt-5">
-							<a href="index.html" class="footer-logo mb-3 d-block">
+							<a href="./" class="footer-logo mb-3 d-block">
 								<img src="assets/images/rnlogowhite.svg" alt="">
 							</a>
 							<div class="copyright-links my-2">
