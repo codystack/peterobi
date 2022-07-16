@@ -36,7 +36,6 @@
 		<div class="footer-content">
 			<div class="container">
 				<div class="row">
-					<!-- Footer widget 1 -->
 					<div class="col-md-8 mx-auto">
 						<div class="widget text-center mt-5">
 							<a href="index.html" class="footer-logo mb-3 d-block">
